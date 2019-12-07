@@ -16,6 +16,7 @@ Then, enter: 'java countAllVowels There are 11 vowels in this sentence.'.
 
 *Assuming you have GraalVM installed, the iteration time splits should decrease relative to each other.
 ![GraalVM-Test](GraalVM-Test.png)
+
 Next, enter 'java -XX:-UseJVMCICompiler countAllVowels There are 11 vowels in this sentence.'.
 
 *This command will run the same program with the same parameters, only it uses the JVM compiler.
