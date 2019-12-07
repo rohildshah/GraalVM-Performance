@@ -1,5 +1,5 @@
 # GraalVM-Performance
-GraalVM is great for improving performance in Java. For example, when the countAllVowels.java program above is run, GraalVM takes much less time to complete 10 000 000 iterations than the JVM!\n
+GraalVM is great for improving performance in Java. For example, when the countAllVowels.java program above is run, GraalVM takes much less time to complete 10 000 000 iterations than the JVM!
 To test this performance improvement, follow the steps below:
 Download 'countAllVowels.java'.
 Rename the file to 'countAllVowels.java'.
